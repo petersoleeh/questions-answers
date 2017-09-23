@@ -1,7 +1,7 @@
 .jumbotron {
   text-align: center;
-  background-color: #ffe6ea;
-  color: #888;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 li {
@@ -20,4 +20,24 @@ li {
   border-radius: 15px;
   background: #ffe6ea;
   padding: 40px 12px 10px 20px;
+}
+
+.container-fluid {
+  background-color: ;
+}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+  text-shadow: 12px;
 }
