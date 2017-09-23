@@ -1,5 +1,23 @@
 .jumbotron {
   text-align: center;
-  background-color: pink;
-  color: purple;
+  background-color: #ffe6ea;
+  color: #888;
+}
+
+li {
+  border: 3px solid #888;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  border-radius: 15px;
+  background: #ffe6ea;
+  padding: 40px 12px 10px 20px;
+}
+
+#new-form {
+  border: 3px solid #888;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  border-radius: 15px;
+  background: #ffe6ea;
+  padding: 40px 12px 10px 20px;
 }
