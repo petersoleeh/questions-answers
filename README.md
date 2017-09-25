@@ -1,7 +1,6 @@
 # questions-answers
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A web app via ember that a user can see a set of questions and their answers. It also allows a user to edit, delete and add to the questions.
 
 ## Prerequisites
 
@@ -38,8 +37,8 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build --environment production` (production)
 
 ### Deploying
-
-Specify what it takes to deploy your app.
+Firebase init
+Firebase deploy
 
 ## Further Reading / Useful Links
 
