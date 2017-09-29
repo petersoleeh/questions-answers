@@ -25,7 +25,7 @@
     "title": "If today is Monday, what is the day after the day before the day before tomorrow?",
     "author": "Bonnie",
     "date": "new Date('12/7/2017')",
-    "answer": "Am Guessing this is not a serious questionand i decline to answer"
+    "answer": "Am Guessing this is not a serious question and i decline to answer"
 
   }, {
 
@@ -34,5 +34,22 @@
     "author": "Petes",
     "date": "new Date('24/9/2017')",
     "answer": "Piece by Piece my friend, piece by piece"
-  }]
+  }],
+
+  "answers": [{
+    "author": "James",
+    "content": "My name is James"
+  },{
+    "author":"Jack",
+    "content": "Swim"
+  },{
+    "author":"Bravo",
+    "content": "Richie James"
+  },{
+    "author":"Zack",
+    "content": "It would be Monday"
+  },{
+    "author":"Le Bron",
+    "content": "Create a big hoax around it"
+    }]
 }
