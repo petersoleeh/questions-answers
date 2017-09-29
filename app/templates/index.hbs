@@ -4,15 +4,24 @@
       <h1>Questions and Answers</h1>
       Be ready to interact with this amazing app. Be prepared with potential questions and of course answers too.
       <br>
-      {{#each model as |question|}}
+      {{#each model.questions as |question|}}
         {{question-tile question=question destroyQuestion="destroyQuestion"}}
 
       {{/each}}
-
     </div>
+
     <div class="col-md-5">
       {{new-question saveQuestion2="saveQuestion3"}}
     </div>
   </div>
+  <h2>All Answers</h2>
+
+  <ol>
+    {{#each model.answers as |answer|}}
+      <li>{{answer.content}}  <small>by {{answer.name}}</small></li>
+    {{/each}}
+  </ol>
+
+
 </div>
 <hr>

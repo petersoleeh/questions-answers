@@ -2,21 +2,18 @@
     "id": 1,
     "title": "What is your name?",
     "author": "James",
-    "date": "new date('23/9/2017')",
     "answer": "My name is Peter"
   },{
 
     "id": 2,
     "title": "Would you sail or swim?",
     "author": "Ingram",
-    "date": "new Date('21/8/2017')",
     "answer": "If its in the ocean i would love to sail"
 
   },{
     "id": 3,
     "title": "Who is your favourite musician",
     "author": "Riche",
-    "date": "new Date('20/9/2017')",
     "answer": "Have many favourite but for now i would go with Pyotr Ilyich Tchaikovsky, yeah that's right you don't know him."
 
   },{
@@ -24,7 +21,6 @@
     "id": 4,
     "title": "If today is Monday, what is the day after the day before the day before tomorrow?",
     "author": "Bonnie",
-    "date": "new Date('12/7/2017')",
     "answer": "Am Guessing this is not a serious question and i decline to answer"
 
   }, {
@@ -32,24 +28,23 @@
     "id": 5,
     "title": "How would you move Mt. Kenya to Nairobi?",
     "author": "Petes",
-    "date": "new Date('24/9/2017')",
     "answer": "Piece by Piece my friend, piece by piece"
   }],
 
   "answers": [{
-    "author": "James",
+    "name": "James",
     "content": "My name is James"
   },{
-    "author":"Jack",
+    "name":"Jack",
     "content": "Swim"
   },{
-    "author":"Bravo",
+    "name":"Bravo",
     "content": "Richie James"
   },{
-    "author":"Zack",
+    "name":"Zack",
     "content": "It would be Monday"
   },{
-    "author":"Le Bron",
+    "name":"Le Bron",
     "content": "Create a big hoax around it"
     }]
 }
