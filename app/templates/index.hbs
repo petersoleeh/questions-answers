@@ -3,9 +3,9 @@
     <div class="col-md-7">
       <h1>Questions and Answers</h1>
       Be ready to interact with this amazing app. Be prepared with potential questions and of course answers too.
-      
+
       {{#each model as |question|}}
-        {{question-tile question=question}}
+        {{question-tile question=question destroyQuestion="destroyQuestion"}}
 
       {{/each}}
 
