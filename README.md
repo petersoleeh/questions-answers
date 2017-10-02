@@ -42,8 +42,23 @@ Firebase deploy
 
 ## Further Reading / Useful Links
 
+## Technologies Used
+* HTML
+* CSS
+* BOOTSTRAP
+* JAVASCRIPT
+* NODE.JS
+
+
+
+
 * [ember.js](https://emberjs.com/)
 * [ember-cli](https://ember-cli.com/)
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+  
+  ## Licence
+
+Copyright (c)2017, Peter Maina
+ 
